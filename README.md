@@ -4,7 +4,7 @@ A desktop application to request supervisor assistance with \*\*push notificatio
 
 Supports emergency alerts, custom messages, response tracking, and CSV logging.
 
-!\[Application Screenshot](screenshot.png)
+!\[Application Screenshot](main-interface-screenshot.png)
 
 ---
 
