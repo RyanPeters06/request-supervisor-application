@@ -4,7 +4,7 @@ A desktop application to request supervisor assistance with \*\*push notificatio
 
 Supports emergency alerts, custom messages, response tracking, and CSV logging.
 
-!\[Application Screenshot](https://github.com/RyanPeters06/request-supervisor-application/blob/325a28356b53e4ec5ec6de07bc60f7446e14c448/main-interface-screenshot.png)
+![Application Screenshot](https://github.com/RyanPeters06/request-supervisor-application/blob/325a28356b53e4ec5ec6de07bc60f7446e14c448/main-interface-screenshot.png)
 
 ---
 
