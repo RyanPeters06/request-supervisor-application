@@ -1,0 +1,16 @@
+
+#These include test / temporary files 
+requestsupervisortemp.py
+functionality*.py
+
+# Unnecessary and Private files
+build/
+dist/
+.idea/
+.venv/
+.env
+settings.json
+*.csv
+*log
+__pycache__/
+*.pyc
