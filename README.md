@@ -1,6 +1,8 @@
 # Supervisor Response System
+
 A desktop application to request supervisor assistance with **push notifications via Pushover**.  
 Supports emergency alerts, custom messages, response tracking, and CSV logging.
+
 ![Application Screenshot](https://github.com/RyanPeters06/request-supervisor-application/blob/325a28356b53e4ec5ec6de07bc60f7446e14c448/main-interface-screenshot.png)
 ---
 ## Features
@@ -11,6 +13,12 @@ Supports emergency alerts, custom messages, response tracking, and CSV logging.
 - 🌐 **Web Interface**: Mobile-friendly supervisor response forms  
 - 📊 **CSV Logging**: Automatic logging of requests and responses  
 - ⚙️ **Settings Management**: Password-protected configuration
+
+## Settings Interface
+
+![Application Screenshot](https://github.com/RyanPeters06/request-supervisor-application/blob/8cf5b03cce82169bfad3c567a0cbc9bba0967677/settings-interface-screenshot.png)
+
+
 ---
 ## Prerequisites
 - Python 3.7+
